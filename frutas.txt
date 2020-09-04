@@ -7,3 +7,5 @@ Frutas com A
 Abacaxi
 Amora
 Acerola
+Abacate
+Ameixa
